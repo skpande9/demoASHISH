@@ -1,5 +1,5 @@
-# ReactReduxBoilerplateApp
-A Starter Kit to get started on a UI Project with Reactjs, Redux and Sass.
+# DEMO-REACT_REDUX_SCSS_WEBPACK-4
+A Demo Kit to get started on a UI Project with Reactjs, Redux and Sass.
 
 
 ## Step 1
@@ -7,7 +7,7 @@ Run ```npm install ``` to install all the dependencies.
 
 
 ## Step 2
-Run ```npm run start ``` to run it in the development environemnt.This will open the the StarterKit Landing page in http://localhost:8080/
+Run ```npm run start ``` to run it in the development environemnt.This will open the the DemoKit Landing page in http://localhost:8080/
 
 Or
 
